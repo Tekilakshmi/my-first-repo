@@ -1,0 +1,3 @@
+Name  : Lakshmi Teki
+Course: Bsc Data science
+We can access my frnd file repository by using GitHub link.
